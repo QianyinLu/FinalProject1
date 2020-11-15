@@ -3,3 +3,8 @@ pandas
 altair
 datetime
 plotly
+vega_datasets
+sodapy
+warnings
+math
+numpy
