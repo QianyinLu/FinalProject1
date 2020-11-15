@@ -5,5 +5,4 @@ datetime
 plotly
 vega_datasets
 sodapy
-math
 numpy
